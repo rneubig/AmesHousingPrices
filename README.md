@@ -1,0 +1,2 @@
+# AmesHousingPrices
+House Prices: Advanced Regression Techniques Kaggle competition submission.
